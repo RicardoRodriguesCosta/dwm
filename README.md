@@ -1,4 +1,4 @@
-# Luke's build of dwm
+# Luke's build of dwm with some of Ricardo's rice
 
 ## FAQ
 
@@ -18,7 +18,7 @@ I haven't kept `man dwm`/`dwm.1` updated though. PRs welcome on that, lol.
 - New layouts: bstack, fibonacci, deck, centered master and more. All bound to keys `super+(shift+)t/y/u/i`.
 - True fullscreen (`super+f`) and prevents focus shifting.
 - Windows can be made sticky (`super+s`).
-- stacker: Move windows up the stack manually (`super-K/J`).
+- stacker: Move windows up the stack manually (`super-Up/Down`).
 - shiftview: Cycle through tags (`super+g/;`).
 - vanitygaps: Gaps allowed across all layouts.
 - swallow patch: if a program run from a terminal would make it inoperable, it temporarily takes its place to save space.

@@ -2,7 +2,7 @@
 
 /* Constants */
 #define TERMINAL "terminator"
-#define TERMCLASS "Terminator"
+#define TERMCLASS "St"
 
 /* appearance */
 static unsigned int borderpx  = 3;        /* border pixel of windows */
